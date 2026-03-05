@@ -1,1 +1,10 @@
 hi
+put thet file in to the GitHub 
+git add .
+
+2---
+git commite -m "what are the changes what we done/eg - we create a file call day_1.txt"
+
+
+push the modifications in to the GitHub
+git push 
