@@ -8,7 +8,3 @@ git commite -m "what are the changes what we done/eg - we create a file call day
 
 push the modifications in to the GitHub
 git push 
-
-
-get data from the GitHub 
-git pull
